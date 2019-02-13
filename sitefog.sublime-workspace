@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"train",
+				"train_text"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"filt",
+				"filtered_sentence"
+			],
+			[
+				"fit",
+				"filtered_sentence"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"ex",
+				"example_sentence"
+			],
+			[
+				"sto",
+				"stop_words"
+			],
+			[
+				"nome",
+				"nomeDoCartorio"
+			],
+			[
+				"Tip",
+				"Tipo_Usuario"
+			],
+			[
+				"tipo",
+				"Tipo_Usuario"
+			],
+			[
+				"UNIQUE",
+				"uniqueID"
+			],
+			[
+				"languag",
+				"language_analysis"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vme",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/siena/Desktop/siteptdc"
+	],
+	"file_history":
+	[
+		"/home/siena/Projetos/nltktest/README.md",
+		"/home/siena/Projetos/nltktest/t6.py",
+		"/home/siena/Projetos/nltktest/t5.py",
+		"/home/siena/Projetos/nltktest/t4.py",
+		"/home/siena/Projetos/nltktest/t3.py",
+		"/home/siena/Projetos/nltktest/t2.py",
+		"/home/siena/Projetos/nltktest/t1.py",
+		"/home/siena/Projetos/beili/sql/ddl.sql",
+		"/home/siena/Projetos/beili/sql/dml-fixos.sql",
+		"/home/siena/Projetos/beili/sql/dml-variaveis.sql",
+		"/home/siena/Projetos/beili/backend/crud.py",
+		"/home/siena/getting-started-python/2-structured-data/bookshelf/templates/base.html",
+		"/home/siena/Projetos/beili/backend/connection.py",
+		"/home/siena/Projetos/beili/backend/README.md",
+		"/home/siena/Projetos/beili/backend/getting-started-python/2-structured-data/config.py",
+		"/home/siena/Projetos/beili/sql/create.sql",
+		"/home/siena/gcloudstuff/nlp/nlp.py",
+		"/home/siena/Desktop/verificacao.py",
+		"/home/siena/gcloudstuff/npl/npl.py",
+		"/home/siena/gcloudstuff/apikey.json",
+		"/home/siena/Projetos/Teste_NLP/main.py",
+		"/home/siena/Projetos/Linguini/slot-filler/slot-filler.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sitefog.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projetos/beili/pln/testes_nltk/README.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

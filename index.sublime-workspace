@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"get",
+				"getHighlight"
+			],
+			[
+				"coor",
+				"coordenadas"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"ex",
+				"exception"
+			],
+			[
+				"termo",
+				"termo_highlight"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"json",
+				"json_string"
+			],
+			[
+				"texto",
+				"texto"
+			],
+			[
+				"in",
+				"inferior"
+			],
+			[
+				"term",
+				"term_indexes"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"fr",
+				"fragment_size"
+			],
+			[
+				"te",
+				"term_indexes"
+			],
+			[
+				"high",
+				"highlight"
+			],
+			[
+				"tex",
+				"texto_completo"
+			],
+			[
+				"for",
+				"formatar_highlight"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"coord",
+				"coordenadas"
+			],
+			[
+				"result",
+				"resultados"
+			],
+			[
+				"cami",
+				"caminho_limpo"
+			],
+			[
+				"bu",
+				"busca_matricula_raw"
+			],
+			[
+				"busca",
+				"busca_matricula"
+			],
+			[
+				"searc",
+				"search_error"
+			],
+			[
+				"p",
+				"palavra"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"sue",
+				"suggestion"
+			],
+			[
+				"_",
+				"_size"
+			],
+			[
+				"resul",
+				"resultados"
+			],
+			[
+				"match",
+				"match_phrase_prefix"
+			],
+			[
+				"extr",
+				"extract_semipath"
+			],
+			[
+				"nome",
+				"nomeArquivo"
+			],
+			[
+				"ma",
+				"matricula"
+			],
+			[
+				"s",
+				"sub"
+			],
+			[
+				"da",
+				"data_extenso"
+			],
+			[
+				"sim",
+				"simpleSearch_corrections"
+			],
+			[
+				"a",
+				"aprovado"
+			],
+			[
+				"nume",
+				"numeros"
+			],
+			[
+				"up",
+				"update_matricula_correct"
+			],
+			[
+				"fiel",
+				"file2"
+			],
+			[
+				"so",
+				"stopwords"
+			],
+			[
+				"resu",
+				"resultados"
+			],
+			[
+				"sugge",
+				"suggest"
+			],
+			[
+				"sugges",
+				"suggestion"
+			],
+			[
+				"sug",
+				"suggest"
+			],
+			[
+				"nem",
+				"numero"
+			],
+			[
+				"find",
+				"find_UUID_cart"
+			],
+			[
+				"find_",
+				"find_UUID_cart"
+			],
+			[
+				"user_not",
+				"user_not_logged"
+			],
+			[
+				"car",
+				"decode_cartorio"
+			],
+			[
+				"user",
+				"usersLogados"
+			],
+			[
+				"path",
+				"path_limpo"
+			],
+			[
+				"sear",
+				"searchPages"
+			],
+			[
+				"open",
+				"openFile"
+			],
+			[
+				"ope",
+				"openFile"
+			],
+			[
+				"op",
+				"openFile"
+			],
+			[
+				"as",
+				"as"
+			],
+			[
+				"j",
+				"jsonfy_1"
+			],
+			[
+				"file",
+				"json_file"
+			],
+			[
+				"uuid",
+				"uuid_generated"
+			],
+			[
+				"g",
+				"get_bucket"
+			],
+			[
+				"down",
+				"downloadFiles"
+			],
+			[
+				"word",
+				"word_features"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"syn",
+				"synsets"
+			],
+			[
+				"sy",
+				"synsets"
+			],
+			[
+				"chunk",
+				"chunkGram"
+			],
+			[
+				"train",
+				"train_text"
+			],
+			[
+				"filt",
+				"filtered_sentence"
+			],
+			[
+				"fit",
+				"filtered_sentence"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"sto",
+				"stop_words"
+			],
+			[
+				"Tip",
+				"Tipo_Usuario"
+			],
+			[
+				"tipo",
+				"Tipo_Usuario"
+			],
+			[
+				"UNIQUE",
+				"uniqueID"
+			],
+			[
+				"languag",
+				"language_analysis"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vme",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"git pull"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/siena/Desktop/mypodcast/about.html",
+		"/home/siena/Desktop/siteptdc/index.html",
+		"/home/siena/Desktop/podca/index.html",
+		"/home/siena/Desktop/mypodcast/index.html",
+		"/home/siena/Desktop/siteptdc/css/styles.css",
+		"/home/siena/Desktop/mypodcast/styles/main_styles.css",
+		"/home/siena/Desktop/mypodcast/styles/blog.css",
+		"/home/siena/Projetos/scriptqrcode/script.py",
+		"/home/siena/Desktop/beili/backend/status/serverstatus.py",
+		"/home/siena/Desktop/beili/backend/status/analise.py",
+		"/home/siena/Desktop/beili/backend/status/upload.py",
+		"/home/siena/Desktop/beili/backend/status/elasticstatus.py",
+		"/home/siena/Desktop/beili/backend/ocr/converterThread.py",
+		"/home/siena/Desktop/beili/backend/ocr/__init__.py",
+		"/home/siena/Desktop/beili/backend/elasticconfig.py",
+		"/home/siena/Desktop/beili/backend/createindex.py",
+		"/home/siena/Desktop/beili/backend/uploadfiles.py",
+		"/home/siena/Desktop/beili/backend/testelastic.py",
+		"/home/siena/Desktop/beili/backend/README.md",
+		"/home/siena/Desktop/beili/backend/psycopg2",
+		"/home/siena/Desktop/beili/backend/elasticstatus.py",
+		"/home/siena/Desktop/beili/backend/serverstatus.py",
+		"/home/siena/Desktop/beili/backend/setup.py",
+		"/home/siena/Desktop/beili/backend/nlp/nlp.py",
+		"/home/siena/Projetos/beili/backend/api.py",
+		"/home/siena/Desktop/beili/backend/handler/elastic.py",
+		"/home/siena/Desktop/beili/backend/config/linode/elasticsearch_cheatsheet.txt",
+		"/home/siena/Desktop/beili/backend/config/linode/elasticsearch_config.txt",
+		"/home/siena/Desktop/beili/backend/highlight/pdfprocessor.py",
+		"/home/siena/Projetos/beili/backend/credentials.yaml",
+		"/home/siena/Desktop/beili/backend/nlp/brazilian_stopwords.txt",
+		"/home/siena/Projetos/AnnotationTool/Annotation/main.py",
+		"/home/siena/Desktop/beili/backend/ocr/cartorio.py",
+		"/home/siena/Desktop/beili/backend/ocr/visionAPI.py",
+		"/home/siena/Projetos/AnnotationTool/Visualization/test.py",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/ver_confianca.py",
+		"/home/siena/Desktop/beili/backend/handler/storage.py",
+		"/home/siena/Projetos/beili/backend/ocr/converter.py",
+		"/home/siena/Desktop/beili/backend/ocr/ativar_credentials.txt",
+		"/home/siena/Desktop/beili/backend/nlp/corretorpalavras.py",
+		"/home/siena/Desktop/beili/backend/logfiles/readlog.py",
+		"/home/siena/Desktop/beili/backend/logfiles/api.log",
+		"/home/siena/Desktop/beili/backend/credentials.yaml",
+		"/home/siena/Desktop/beili/backend/handler/__init__.py",
+		"/home/siena/Desktop/beili/backend/nlp/corretortexto.py",
+		"/home/siena/Desktop/beili/backend/nlp/ble.py",
+		"/home/siena/Desktop/beili/backend/config/linode/elasticsearch_study.txt",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/modofinal.json",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/modo2.json",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/modo3.json",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/modo5.json",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/modo4.json",
+		"/home/siena/Desktop/beili/backend/test.py",
+		"/home/siena/Projetos/beili/backend/handler/elastic.py",
+		"/home/siena/Projetos/beili/backend/highlight/pdfprocessor.py",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/ocr.json",
+		"/home/siena/Desktop/beili/backend/api.log",
+		"/home/siena/Desktop/beili/backend/nlp/visualization/teste.json",
+		"/home/siena/Projetos/beili/backend/nlp/visualization/ocr.json",
+		"/home/siena/Projetos/beili/backend/nlp/visualization/ver_confianca.py",
+		"/home/siena/Projetos/beili/backend/nlp/visualization/test.py",
+		"/home/siena/Projetos/beili/backend/nlp/visualization/resposta_completa_OCR.js",
+		"/home/siena/Desktop/beili/backend/api.py",
+		"/home/siena/Projetos/beili/backend/nlp/nlp.py",
+		"/home/siena/Projetos/beili/backend/test.py",
+		"/home/siena/acessoservidor",
+		"/home/siena/Downloads/resposta_completa_OCR.js",
+		"/home/siena/matriculas/1/ocr/00000003 1.json",
+		"/home/siena/Desktop/beili/backend/handler/customexceptions.py",
+		"/home/siena/Projetos/beili/backend/__init__.py",
+		"/home/siena/Projetos/beili/backend/config/createindex.py",
+		"/home/siena/Projetos/beili/backend/config/config.py",
+		"/home/siena/Projetos/beili/backend/config/uploadfiles.py",
+		"/home/siena/Projetos/study/udacity_intro-to-data-science/numpy.py",
+		"/home/siena/Projetos/beili/backend/handler/storage.py",
+		"/home/siena/Projetos/beili/backend/config.py",
+		"/home/siena/Projetos/beili/backend/uploadfiles.py",
+		"/home/siena/Desktop/beili/backend/linode/elasticsearch_cheatsheet.txt",
+		"/home/siena/Desktop/beili/backend/linode/elasticsearch_config.txt",
+		"/home/siena/Projetos/beili/backend/handler/customexceptions.py",
+		"/home/siena/Desktop/tutorial docker-drupal.txt",
+		"/home/siena/Projetos/beili/backend/linode/elasticsearch_config.txt",
+		"/home/siena/Projetos/beili/backend/linode/elasticsearch_cheatsheet.txt",
+		"/home/siena/Projetos/beili/backend/linode/acess server.txt",
+		"/home/siena/Desktop/beili/backend/requirements.txt",
+		"/home/siena/Desktop/beili/backend/preprocess.py",
+		"/home/siena/Desktop/beili/backend/testcorretor.py",
+		"/home/siena/Desktop/beili/backend/linode/elasticsearch_mapping.txt",
+		"/home/siena/Desktop/beili/backend/linode/elasticsearch_curl.txt",
+		"/home/siena/Desktop/beili/backend/nlp/brazilian_stopwords_updated_2.txt",
+		"/home/siena/Desktop/beili/backend/nlp/brazilian_stopwords_updated.txt",
+		"/home/siena/Desktop/beili/backend/nlp/compare.txt",
+		"/home/siena/Desktop/beili/AnnotationTool/main.py",
+		"/home/siena/Projetos/beili/backend/linode/elasticsearch_mapping.txt",
+		"/home/siena/Desktop/You Are A:",
+		"/home/siena/matriculas/3/ocr/0 1.json",
+		"/home/siena/matriculas/3/ocr/0 2.json",
+		"/home/siena/matriculas/3/ocr/0 4.json",
+		"/home/siena/matriculas/3/ocr/0 3.json",
+		"/home/siena/matriculas/3/ocr/17 3.json",
+		"/home/siena/Desktop/beili/pln/testes_nltk/12_wordAsAFeature.py",
+		"/home/siena/Desktop/beili/pln/testes_nltk/13_wordcount.py",
+		"/home/siena/matriculas/2/ocr/200000001 1.json",
+		"/home/siena/Projetos/beili/backend/len.py",
+		"/home/siena/Projetos/beili/backend/preprocess.py",
+		"/home/siena/Desktop/beili/backend/handler/preprocess.py",
+		"/home/siena/matriculas/json/result.json",
+		"/home/siena/Desktop/beili/backend/visionAPI/result.json",
+		"/home/siena/matriculas/json/m2.json",
+		"/home/siena/Projetos/beili/backend/m1.json",
+		"/home/siena/Projetos/beili/backend/.gitignore",
+		"/home/siena/Projetos/beili/backend/classes/connection.py",
+		"/home/siena/Projetos/beili/backend/handler/nlp.py",
+		"/home/siena/Projetos/beili/backend/handler/main.py",
+		"/home/siena/Projetos/beili/backend/handler/requirements.txt",
+		"/home/siena/Projetos/beili/pln/testes_nltk/2_stopwords.py",
+		"/home/siena/Desktop/t.py",
+		"/home/siena/Desktop/beili/backend/handler/elastic_handler.py",
+		"/home/siena/Projetos/beili/backend/handler/credentials.yaml",
+		"/home/siena/Desktop/beili/backend/linode/config.txt",
+		"/home/siena/Desktop/beili/backend/linode/java_config.txt",
+		"/home/siena/Desktop/beili/backend/handler/main.py",
+		"/home/siena/Desktop/beili/backend/handler/t.py",
+		"/home/siena/Desktop/beili/backend/handler/storage_handler.py",
+		"/home/siena/Desktop/beili/backend/handler/insert.py",
+		"/home/siena/Desktop/flask_api.py",
+		"/home/siena/Projetos/beili/backend/elastic_handler.py",
+		"/home/siena/Projetos/beili/backend/classes/flask_api.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bi wee",
+			"import os\n\n# cartorio = input(\"digite o número cartório: \")\ncartorio = 6\nendpoint2 = '/original2'\nendpoint = '/original'\nparametro = '--ocr'\n\n\n\nprint('\\n\\n-              UPLOAD              -')\nprint('----------------------------------------')\n\nprint('\\nnavegando')\nos.system('cd /siena/matriculas/' + cartorio + endpoint2)\nprint('ok')\n\nprint('\\nexecutanto rotina de movimentação de arquivos')\nos.system('i=0')\nos.system('for x in *; do if [ \"$i\" = 10000 ]; then break; fi mv -- \"$x\" /siena/matriculas/' + cartorio + endpoint + ' i=$((i+1)) done')\nprint('ok')\n\nprint('\\nnavegando')\nos.system('cd /projects/backend/ocr')\nprint('ok')\n\nprint('\\nexecutando pipeline')\nos.system('sudo su')\nos.system('python3 __init__.py ' + parametro + ' ' + cartorio)\nprint('ok')\n\n# print('\\nnavegando')\n# os.system('cd /siena/matriculas/' + cartorio + endpoint)\n# print('ok')\n\nprint('\\nanalizar eficácia')\nprint('find /siena/matriculas/' + cartorio + endpoint +'/ -type f | wc -l')\nprint('ok')\n\nprint('\\nnavegando')\nos.system('cd /projects/backend/status' + cartorio + endpoint2)\nprint('ok')\n\nprint('----------------------------------------')\n",
+			"matricu",
+			"romulo",
+			"formatar",
+			"print",
+			"debug",
+			"HEAD",
+			">>>",
+			"romulo",
+			"junior",
+			"romulo",
+			"teste",
+			"matricula",
+			"teste",
+			"    \n",
+			"['body",
+			"body.",
+			"body",
+			")",
+			"(",
+			"# LOGGING",
+			"logging",
+			"195",
+			", ",
+			"43491141818",
+			"BuscaTodos",
+			"SearchError",
+			"value",
+			"proprimente",
+			"busca_matricula",
+			"tratado",
+			">>>",
+			"portuguese",
+			"final",
+			" ",
+			"jergim",
+			"europa",
+			"result",
+			"busca_matricula",
+			"find",
+			"findUSER",
+			"now",
+			"enter",
+			"\\",
+			"nmatri",
+			"dumps",
+			"token = ",
+			"token",
+			"token = ",
+			"uuid",
+			"\"",
+			"timestamp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"info",
+			"matriculas",
+			"]",
+			"[",
+			"# LOGGING logger = logging.getLogger(__name__)",
+			"logger",
+			"search",
+			"termo",
+			"cont",
+			"",
+			"uniqueID",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projetos/beili/pln/testes_nltk/README.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
