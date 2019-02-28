@@ -8,6 +8,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="My Podcast template project">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- mypodcast -->
 	<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
 	<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
@@ -15,6 +17,7 @@
 	<link rel="stylesheet" type="text/css" href="styles/responsive.css">
 	<link rel="stylesheet" type="text/css" href="styles/about.css">
 	<link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
+	<!-- /mypodcast -->
 
 
 	<!-- podca -->
@@ -30,7 +33,6 @@
   <link rel="stylesheet" type="text/css" href="styles/mixtape_main_styles.css">
   <link rel="stylesheet" type="text/css" href="styles/mixtape_responsive.css">
   <!-- /mixtape -->
-
 </head>
 
 
@@ -38,7 +40,6 @@
 
 
 <!-- 1. Ouça já -->
-
 <div class="weekly">
 	<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/weekly.jpg" data-speed="0.8"></div>
 	<div class="container">
@@ -75,314 +76,219 @@
 	</div>
 </div>
 
+<!-- 2. Player -->
 <div class="weekly">
-<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/microfone.jpeg" data-speed="0.8"></div>
-<div class="container">
-<!-- Featured Album -->
-<div class="featured_album">
-  <div class="background_image featured_background"></div>
-  <!-- <div class="background_image featured_background" style="background-image:url(images/featured.png)"></div> -->
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 offset-lg-6">
-        <div class="section_title_container">
-          <div class="section_subtitle" style="color: white"></div>
-          <div class="section_title" style="color: #ffffff"><h2></h2></div>
-        </div>
-      </div>
-    </div>
-    <div class="row featured_row row-lg-eq-height">
+	<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/microfone.jpeg" data-speed="0.8"></div>
+	<div class="container">
+	<!-- Featured Album -->
+	<div class="featured_album">
+	  <div class="background_image featured_background"></div>
+	  <!-- <div class="background_image featured_background" style="background-image:url(images/featured.png)"></div> -->
+	  <div class="container">
+	    <div class="row">
+	      <div class="col-lg-6 offset-lg-6">
+	        <div class="section_title_container">
+	          <div class="section_subtitle" style="color: white"></div>
+	          <div class="section_title" style="color: #ffffff"><h2></h2></div>
+	        </div>
+	      </div>
+	    </div>
+	    <div class="row featured_row row-lg-eq-height">
 
-      <!-- Featured Album Image -->
-      <div class="col-md-6">
-        <div class="featured_album_image">
-          <div class="image_overlay"></div>
-          <div class="background_image" style="background-image:url(images/featured_album.jpg)"></div>
-          <!-- <img src="images/featured_album.jpg" alt=""> -->
-        </div>
-      </div>
+	      <!-- Featured Album Image -->
+	      <div class="col-md-6">
+	        <div class="featured_album_image">
+	          <div class="image_overlay"></div>
+	          <div class="background_image" style="background-image:url(images/featured_album.jpg)"></div>
+	          <!-- <img src="images/featured_album.jpg" alt=""> -->
+	        </div>
+	      </div>
 
-      <!-- Featured Album Player -->
-      <div class="col-md-6 featured_album_col">
-        <div class="featured_album_player_container d-flex flex-column align-items-start justify-content-center">
-          <div class="featured_album_player">
-            <div class="featured_album_title_bar d-flex flex-row align-items-center justify-content-start">
-              <div class="featured_album_title_container">
-                <div class="featured_album_artist">2ª Temporada</div>
-                <div class="featured_album_title">Por Trás dos Controles</div>
-              </div>
-              <div class="featured_album_link ml-auto"><a href="#">Ouça no Spotify</a></div>
-            </div>
-            <div id="jplayer_1" class="jp-jplayer"></div>
-            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
-              <div class="jp-type-playlist">
-                <div class="jp-playlist">
-                  <ul>
-                    <li></li>
-                  </ul>
-                </div>
-                <div class="player_details d-flex flex-row align-items-center justify-content-start">
-                  <div class="jp-details">
-                    <div>playing</div>
-                    <div class="jp-title" aria-label="title">&nbsp;</div>
-                  </div>
-                  <div class="jp-controls-holder ml-auto">
-                    <button class="jp-play" tabindex="0"></button>
-                  </div>
-                </div>
-                <div class="player_controls">
-                  <div class="jp-gui jp-interface d-flex flex-row align-items-center justify-content-start">
-                    <div class="jp-controls-holder time_controls d-flex flex-row align-items-center justify-content-start">
-                      <div><div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div></div>
-                      <div class="jp-progress">
-                        <div class="jp-seek-bar">
-                          <div class="jp-play-bar"></div>
-                        </div>
-                      </div>
-                      <div><div class="jp-duration ml-auto" role="timer" aria-label="duration">&nbsp;</div></div>
-                    </div>
-                    <div class="jp-volume-controls d-flex flex-row align-items-center justify-content-start ml-auto">
-                      <button class="jp-mute" tabindex="0"></button>
-                      <div class="jp-volume-bar">
-                        <div class="jp-volume-bar-value"></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="jp-no-solution">
-                  <span>Update Required</span>
-                  To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>
-                </div>
-              </div>
-            </div>
+	      <!-- Featured Album Player -->
+	      <div class="col-md-6 featured_album_col">
+	        <div class="featured_album_player_container d-flex flex-column align-items-start justify-content-center">
+	          <div class="featured_album_player">
+	            <div class="featured_album_title_bar d-flex flex-row align-items-center justify-content-start">
+	              <div class="featured_album_title_container">
+	                <div class="featured_album_artist">2ª Temporada</div>
+	                <div class="featured_album_title">Por Trás dos Controles</div>
+	              </div>
+	              <div class="featured_album_link ml-auto"><a href="#">Ouça no Spotify</a></div>
+	            </div>
+	            <div id="jplayer_1" class="jp-jplayer"></div>
+	            <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+	              <div class="jp-type-playlist">
+	                <div class="jp-playlist">
+	                  <ul>
+	                    <li></li>
+	                  </ul>
+	                </div>
+	                <div class="player_details d-flex flex-row align-items-center justify-content-start">
+	                  <div class="jp-details">
+	                    <div>playing</div>
+	                    <div class="jp-title" aria-label="title">&nbsp;</div>
+	                  </div>
+	                  <div class="jp-controls-holder ml-auto">
+	                    <button class="jp-play" tabindex="0"></button>
+	                  </div>
+	                </div>
+	                <div class="player_controls">
+	                  <div class="jp-gui jp-interface d-flex flex-row align-items-center justify-content-start">
+	                    <div class="jp-controls-holder time_controls d-flex flex-row align-items-center justify-content-start">
+	                      <div><div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div></div>
+	                      <div class="jp-progress">
+	                        <div class="jp-seek-bar">
+	                          <div class="jp-play-bar"></div>
+	                        </div>
+	                      </div>
+	                      <div><div class="jp-duration ml-auto" role="timer" aria-label="duration">&nbsp;</div></div>
+	                    </div>
+	                    <div class="jp-volume-controls d-flex flex-row align-items-center justify-content-start ml-auto">
+	                      <button class="jp-mute" tabindex="0"></button>
+	                      <div class="jp-volume-bar">
+	                        <div class="jp-volume-bar-value"></div>
+	                      </div>
+	                    </div>
+	                  </div>
+	                </div>
+	                <div class="jp-no-solution">
+	                  <span>Update Required</span>
+	                  To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>
+	                </div>
+	              </div>
+	            </div>
 
-          </div>
-        </div>
-      </div>
+	          </div>
+	        </div>
+	      </div>
 
-    </div>
-  </div>
-</div>
-</div>
-</div>
-
-
-<!--2. e 3. -->
-<div class="site-wrap">
-  <!-- 2. Por trás do microfone -->
-  <div class="site-section">
-  <div class="container" data-aos="fade-up">
-    <div class="row mb-5">
-      <div class="col-md-12 text-center">
-        <h2 class="font-weight-bold text-black">Por Trás dos Microfones</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/pessoas/leo.jpg" alt="Image" class="img-fluid">
-
-          <div class="text" style="width: 100%;">
-
-            <h2 class="mb-2 font-weight-light h4">Leo</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Leonardo Tórtoro Pereira</span>
-            <p class="mb-2 font-weight-light h5">Locutor | Roteirista | Gerente de Conteúdo</p>
-            <p>
-              <a href="https://www.facebook.com/ltorpereira" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="https://www.linkedin.com/in/leonardo-tórtoro-pereira-4350b8ab" target="_blank" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/person_2.jpg" alt="Image" class="img-fluid">
-
-          <div class="text" style="width: 100%;">
-
-            <h2 class="mb-2 font-weight-light h4">Cléber</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Rodrigo Geurgas</span>
-            <p class="mb-4">Host | Locutor</p>
-            <p>
-              <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/person_3.jpg" alt="Image" class="img-fluid">
-
-          <div class="text" style="width: 100%;">
-
-            <h2 class="mb-2 font-weight-light h4">Philip Martin</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-            <p>
-              <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/person_4.jpg" alt="Image" class="img-fluid">
-
-          <div class="text" style="width: 100%;">
-
-            <h2 class="mb-2 font-weight-light h4">Steven Ericson</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-            <p>
-              <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/person_5.jpg" alt="Image" class="img-fluid">
-
-          <div class="text" style="width: 100%;">
-
-            <h2 class="mb-2 font-weight-light h4">Nathan Dumlao</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-            <p>
-              <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-        <div class="team-member">
-
-          <img src="images/person_6.jpg" alt="Image" class="img-fluid">
-
-          <div class="text">
-
-            <h2 class="mb-2 font-weight-light h4">Brooke Cagle</h2>
-            <span class="d-block mb-2 text-white-opacity-05">Creative Director</span>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit ullam reprehenderit nemo.</p>
-            <p>
-              <a href="#" class="text-white p-2"><span class="icon-facebook"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-twitter"></span></a>
-              <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
-            </p>
-          </div>
-
-        </div>
-      </div>
-
-
-    </div>
-  </div>
-  </div>
-
-  <!-- 3. Convidados -->
-  <div class="site-section bg-light block-13">
-  <div class="container">
-    <div class="row mb-5">
-      <div class="col-md-12 text-center">
-        <h2 class="font-weight-bold text-black">Participações Especiais</h2>
-      </div>
-    </div>
-    <div class="nonloop-block-13 owl-carousel">
-      
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Marcio Funes</h3>
-          <p>T2 E3</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Brooke Cagle</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_3.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Philip Martin</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_4.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Steven Ericson</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_5.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Nathan Dumlao</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="images/person_6.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="">
-          <h3 class="font-weight-light h5">Brook Smith</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-        </div>
-      </div>
-
-    </div>
-  </div>
-  </div>
+	    </div>
+	  </div>
+	</div>
+	</div>
 </div>
 
+<!-- 3. Por Trás dos Microfones -->
+<div class="site-section">
+	<div class="container" data-aos="fade-up">
+	  <div class="row mb-5">
+	    <div class="col-md-12 text-center">
+	      <h2 class="font-weight-bold text-black">Por Trás dos Microfones</h2>
+	    </div>
+	  </div>
+	  <div class="row">
+	  	<div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+	      <div class="team-member">
+
+	        <img src="images/pessoas/abner.jpg" alt="Image" class="img-fluid">
+
+	        <div class="text" style="width: 100%;">
+
+	          <h2 class="mb-2 font-weight-light h4">Abner</h2>
+	          <span class="d-block mb-2 text-white-opacity-05">Abner Eduardo Silveira Santos</span>
+	          <p class="mb-2 font-weight-light h5">Roteirista | Locutor</p>
+	          <p>
+	            <a href="https://www.facebook.com/AbnerEduardoSilveiraSantos" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
+	            <a href="https://twitter.com/AbnerESantos" target="_blank" class="text-white p-2"><span class="icon-twitter"></span></a>
+	            <a href="https://www.linkedin.com/in/abner-santos-1562b7170/" target="_blank" class="text-white p-2"><span class="icon-linkedin"></span></a>
+	          </p>
+	        </div>
+
+	      </div>
+	    </div>
+
+			<div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+	      <div class="team-member">
+	        <img src="images/pessoas/giuliano.jpg" alt="Image" class="img-fluid">
+
+	        <div class="text" style="width: 100%;">
+
+	          <h2 class="mb-2 font-weight-light h4">Psy</h2>
+	          <span class="d-block mb-2 text-white-opacity-05">Giuliano Lourençon</span>
+	          <p class="mb-2 font-weight-light h5">Roteirista | Gerente de Conteúdo | Gerente de Divulgação</p>
+	          <p>
+	            <a href="https://www.facebook.com/giuliano.lourencon" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
+	            <a href="https://www.linkedin.com/in/giuliano-l-63096692/" target="_blank" class="text-white p-2"><span class="icon-linkedin"></span></a>
+	          </p>
+	        </div>
+
+	      </div>
+	    </div>
+
+	    <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+	      <div class="team-member">
+
+	        <img src="images/pessoas/leo.jpg" alt="Image" class="img-fluid">
+
+	        <div class="text" style="width: 100%;">
+
+	          <h2 class="mb-2 font-weight-light h4">Leo</h2>
+	          <span class="d-block mb-2 text-white-opacity-05">Leonardo Tórtoro Pereira</span>
+	          <p class="mb-2 font-weight-light h5">Locutor | Roteirista | Gerente de Conteúdo</p>
+	          <p>
+	            <a href="https://www.facebook.com/ltorpereira" target="_blank" class="text-white p-2"><span class="icon-facebook"></span></a>
+	            <a href="https://www.linkedin.com/in/leonardo-tórtoro-pereira-4350b8ab" target="_blank" class="text-white p-2"><span class="icon-linkedin"></span></a>
+	          </p>
+	        </div>
+
+	      </div>
+	    </div>
+
+	    
 
 
+	  </div>
+	</div>
+</div>
 
-<!-- 4. Milestones -->
+<!-- 4. Participações Especiais -->
+<div class="site-section bg-light block-13">
+	<div class="container">
+	  <div class="row mb-5">
+	    <div class="col-md-12 text-center">
+	      <h2 class="font-weight-bold text-black">Participações Especiais</h2>
+	    </div>
+	  </div>
+	  <div class="nonloop-block-13 owl-carousel">
+	    
+	    <div class="text-center p-3 p-md-5 bg-white">
+	      <div class="mb-4">            
+	        <img src="images/pessoas/marcio.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+	      </div>
+	      <div class="">
+	        <h3 class="font-weight-light h5">Marcio Funes</h3>
+	        <p>T2 E1</p>
+	        <p>R&D Senior Researcher at Lenovo | AR | VR | MR (XR)</p>
+	      </div>
+	    </div>
 
+	    <div class="text-center p-3 p-md-5 bg-white">
+	      <div class="mb-4">            
+	        <img src="images/pessoas/denise.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+	      </div>
+	      <div class="">
+	        <h3 class="font-weight-light h5">Denise Cassati</h3>
+	        <p>T1 E9</p>
+	        <p>Jornalista pelo ICMC e pesquisadora na área de psicologia</p>
+	      </div>
+	    </div>
+
+	    <div class="text-center p-3 p-md-5 bg-white">
+	      <div class="mb-4">            
+	        <img src="images/pessoas/claudio.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
+	      </div>
+	      <div class="">
+	        <h3 class="font-weight-light h5">Claudio Toledo</h3>
+	        <p>T1 E1</p>
+	        <p>Professor Doutor no ICMC-USP, pesquisador de Inteligência Artificial</p>
+	      </div>
+	    </div>
+
+	  </div>
+	</div>
+</div>
+
+<!-- 5. Milestones -->
 <div class="milestones">
 	<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/milestones.jpg" data-speed="0.8"></div>
 	<div class="container">
@@ -442,41 +348,43 @@
 </div>
 
 
-<!-- podca -->
-<script src="js/jquery-3.3.1.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/aos.js"></script>
-<script src="js/main.js"></script>
-<!-- /podca -->
+<!-- IMPORTS -->
 
-<!-- mypodcast -->
+	<!-- podca -->
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/aos.js"></script>
+	<script src="js/main.js"></script>
+	<!-- /podca -->
 
-<script src="js/jquery-3.3.1.min.js"></script>
+	<!-- mypodcast -->
+
+	<script src="js/jquery-3.3.1.min.js"></script>
 
 
-<script src="styles/bootstrap-4.1.2/popper.js"></script>
-<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
-<script src="plugins/greensock/TweenMax.min.js"></script>
-<!-- <script src="plugins/greensock/TimelineMax.min.js"></script> -->
-<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
-<!-- <script src="plugins/greensock/animation.gsap.min.js"></script> -->
-<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
-<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
-<script src="plugins/easing/easing.js"></script>
-<script src="plugins/progressbar/progressbar.min.js"></script>
-<script src="plugins/parallax-js-master/parallax.min.js"></script>
+	<script src="styles/bootstrap-4.1.2/popper.js"></script>
+	<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+	<script src="plugins/greensock/TweenMax.min.js"></script>
+	<!-- <script src="plugins/greensock/TimelineMax.min.js"></script> -->
+	<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+	<!-- <script src="plugins/greensock/animation.gsap.min.js"></script> -->
+	<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+	<script src="plugins/colorbox/jquery.colorbox-min.js"></script>
+	<script src="plugins/easing/easing.js"></script>
+	<script src="plugins/progressbar/progressbar.min.js"></script>
+	<script src="plugins/parallax-js-master/parallax.min.js"></script>
 
-<script src="js/custom.js"></script>
-<script src="js/about.js"></script>
+	<script src="js/custom.js"></script>
+	<script src="js/about.js"></script>
 
-<!-- mixtape -->
-<script src="js/mixtape_custom.js"></script>
-<script src="plugins/jPlayer/jquery.jplayer.min.js"></script>
-<script src="plugins/jPlayer/jplayer.playlist.min.js"></script>
-<script src="plugins/greensock/TweenMax.min.js"></script>
+	<!-- mixtape -->
+	<script src="js/mixtape_custom.js"></script>
+	<script src="plugins/jPlayer/jquery.jplayer.min.js"></script>
+	<script src="plugins/jPlayer/jplayer.playlist.min.js"></script>
+	<script src="plugins/greensock/TweenMax.min.js"></script>
 
-<!-- /mixtape -->
+	<!-- /mixtape -->
 
 
 
